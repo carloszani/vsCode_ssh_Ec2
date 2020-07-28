@@ -20,3 +20,8 @@ The process below is for those who have Windows 10 Home Edition and want to use 
 * After installing Visual Studio Code, you must install the extension *[Remote Development extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)*. There are two ways: by the link contained in this description or by the extension manager of Visual Studio Code itself that can search for the name of the extension and install it.
  
 ## Getting started
+* Assuming that **all prerequisites have been made and are ready**, let's first validate that the extension in Visual Studio Code is ready for use:
+
+In the **lower left corner of the VSCode**, a small green rectangle should appear and if you place the mouse pointer over it, the hint "**Open a remote window**" will appear. If it is not showing, make sure the extension has been installed correctly.
+![Visual Studio Code Footer](https://imgur.com/vN2EsPg.png)
+
