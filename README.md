@@ -10,12 +10,12 @@ The process below is for those who have Windows 10 Home Edition and want to use 
 * [Getting started](#Getting-started)
 
 ## Prerequisites
-* Have an AWS account with permission to create and run EC2 instances. (If you don't have it, follow the instructions [link!](https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=header_signup&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start)
+* Have an AWS account with permission to create and run EC2 instances. (If you don't have it, follow the instructions [link](https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=header_signup&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start).
 * Basic knowledge of AWS, how to create EC2 instances and access remotely.
 * Have an EC2 instance created on AWS and with the public and private key files on your local computer. 
-* If you are not yet aware of this process, read the AWS [documentation!](https://docs.aws.amazon.com/efs/latest/ug/gs-step-one-create-ec2-resources.html).
-* [Putty!](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - a free SSH and Telnet client
-* [Git!](https://git-scm.com/download/win) for Windows - for obvious use and also serves as an SSH client in Windows 10 Home. There is a possibility to use another SSH client - Windows OpenSSH Client, but I think it is unnecessary for those who have Git.
-* [Visual Studio Code!](https://code.visualstudio.com) 
+* If you are not yet aware of this process, read the AWS [documentation](https://docs.aws.amazon.com/efs/latest/ug/gs-step-one-create-ec2-resources.html).
+* [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - a free SSH and Telnet client.
+* [Git](https://git-scm.com/download/win) for Windows - for obvious use and also serves as an SSH client in Windows 10 Home. There is a possibility to use another SSH client - Windows OpenSSH Client, but I think it is unnecessary for those who have Git.
+* [Visual Studio Code](https://code.visualstudio.com).
  
 ## Getting started
