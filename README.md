@@ -41,10 +41,10 @@ Follow the next steps to convert the private key reported by Amazon to the stand
 ![Remote Host File](https://imgur.com/yc2bhmn.png)
 
 For exemple:<br>
-    **Host aws-ec2-instance**<br>
-        **User ec2-user** (remember: in a AWS EC2 Linux, the user is alway **ec2-user**)
-        **HostName 18.15.0.11** (remember: when you create a new AWS EC2 instance, an IPv4 Public IP is always provided by AWS and associated with the instance, check the AWS console for your public IP of your instance. Important: the IP changes every time you STOP and START the instance. Whenever there is an error when connecting through Visual Studio, make sure that the EC2 IP is updated in the file.)<br>
-        **IdentityFile c:\user\.shh\aws_instance** (Full path and name of the file generated in step 2 above.)
+* **Host aws-ec2-instance** (any name for you to identify your instance in aws)<br>
+    * **User ec2-user** (remember: in a AWS EC2 Linux, the user is alway **ec2-user**)<br>
+    * **HostName 18.15.0.11** (remember: when you create a new AWS EC2 instance, an IPv4 Public IP is always provided by AWS and associated with the instance, check the AWS console for your public IP of your instance. Important: the IP changes every time you STOP and START the instance. Whenever there is an error when connecting through Visual Studio, make sure that the EC2 IP is updated in the file.)<br>
+    * **IdentityFile c:\user\.shh\aws_instance** (Full path and name of the file generated in step 2 above.)
 
 ## Connect Visual Studio Code to EC2
 1. In Visual Studio Code, press **F1** and search for: **Remote-SSH: Connect to Host...**
