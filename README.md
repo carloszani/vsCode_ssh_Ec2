@@ -17,5 +17,6 @@ The process below is for those who have Windows 10 Home Edition and want to use 
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - a free SSH and Telnet client.
 * [Git](https://git-scm.com/download/win) for Windows - for obvious use and also serves as an SSH client in Windows 10 Home. There is a possibility to use another SSH client - Windows OpenSSH Client, but I think it is unnecessary for those who have Git.
 * [Visual Studio Code](https://code.visualstudio.com).
+* After installing Visual Studio Code, you must install the extension *[Remote Development extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)*. There are two ways: by the link contained in this description or by the extension manager of Visual Studio Code itself that can search for the name of the extension and install it.
  
 ## Getting started
