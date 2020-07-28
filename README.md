@@ -23,5 +23,8 @@ The process below is for those who have Windows 10 Home Edition and want to use 
 * Assuming that **all prerequisites have been made and are ready**, let's first validate that the extension in Visual Studio Code is ready for use:
 
 In the **lower left corner of the VSCode**, a small green rectangle should appear and if you place the mouse pointer over it, the hint "**Open a remote window**" will appear. If it is not showing, make sure the extension has been installed correctly.
+
 ![Visual Studio Code Footer](https://imgur.com/vN2EsPg.png)
+
+
 
